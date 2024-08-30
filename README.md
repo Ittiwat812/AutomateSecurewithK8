@@ -13,7 +13,7 @@ This project introduces an innovative application designed to enhance the securi
 
 ## Prototype
 
-The Kubernetes Pod Configuration Manager allows users to select pods from a dropdown menu and apply various security configurations. Options include isolating selected pods, restricting root access, and controlling ingress traffic from specific IPs.
+The Kubernetes Pod Configuration Manager allows users to select pods from a dropdown menu and apply various security configurations. Options include isolating selected pods, and controlling ingress traffic from specific IPs (Restricting root access is developing).
 
 ## Security Analysis
 
@@ -39,7 +39,8 @@ cd kubernetes-config-manager
 
 # Documentation
 Further documentation is available at:
-- Kubernetes Official Documentation
-- Network Policy Recipes
+- [Kubernetes Official Documentation](https://kubernetes.io/docs/home/)
+- [Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+  
 # Contributions
 Contributions are welcome. Please submit a pull request or open an issue to discuss proposed changes or enhancements.
