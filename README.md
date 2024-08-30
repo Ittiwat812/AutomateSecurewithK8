@@ -39,7 +39,7 @@ cd kubernetes-config-manager
 
 # Documentation
 Further documentation is available at:
-  Kubernetes Official Documentation
-  Network Policy Recipes
+- Kubernetes Official Documentation
+- Network Policy Recipes
 # Contributions
 Contributions are welcome. Please submit a pull request or open an issue to discuss proposed changes or enhancements.
