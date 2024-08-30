@@ -1,8 +1,8 @@
-#Kubernetes Configuration with mulitiple Pods Manager
-Overview
+# Kubernetes Configuration with mulitiple Pods Manager
+# Overview
 This project introduces an innovative application designed to enhance the security of Kubernetes pods by automating security configurations across multiple Dockers using Kubernetes. The application focuses on critical security areas including Isolation, Role-Based Access Control (RBAC), and Ingress-Specific IP controls, establishing a robust security posture for Kubernetes deployments.
 
-Features
+# Features
 Granular Isolation: Prevent unauthorized access between pods, reducing the attack surface.
 Dynamic RBAC: Manage access permissions within pods through dynamic RBAC policies.
 Ingress-Specific IP Policies: Regulate ingress traffic between pods to minimize security risks.
@@ -10,10 +10,10 @@ Data Encryption: Encrypt communications between pods and between pods and the cl
 Prototype
 The Kubernetes Pod Configuration Manager allows users to select pods from a dropdown menu and apply various security configurations. Options include isolating selected pods, restricting root access, and controlling ingress traffic from specific IPs.
 
-Security Analysis
+# Security Analysis
 The system model secures a Kubernetes environment by focusing on policy enforcement, RBAC, and encrypted communication. It utilizes TLS for data security and integrity.
 
-How to Use
+# How to Use
 Selecting a Pod: Choose a pod from the dropdown menu in the Kubernetes Pod Configuration Manager.
 Applying Configurations: Apply security configurations such as isolation, non-root access, and ingress controls.
 Observing Changes: Use the terminal output within the GUI to verify the changes.
