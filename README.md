@@ -5,7 +5,7 @@
 This project introduces an innovative application designed to enhance the security of Kubernetes pods by automating security configurations across multiple Dockers using Kubernetes. The application focuses on critical security areas including Isolation, Role-Based Access Control (RBAC), and Ingress-Specific IP controls, establishing a robust security posture for Kubernetes deployments.
 
 
-## Mainfile
+## Main
 - [Link for Download](https://www.dropbox.com/scl/fo/zltqsche3d7mf559z5o7l/ADuYvkEqBfLAs8WowfkuUPk?rlkey=agye9f90sztqk70g93nstmx2a&st=eqiqw6hp&dl=0)
 
 
