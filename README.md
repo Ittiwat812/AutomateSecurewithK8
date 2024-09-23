@@ -49,3 +49,4 @@ Further documentation is available at:
   
 # Contributions
 Contributions are welcome. Please submit a pull request or open an issue to discuss proposed changes or enhancements.
+-  [Nameister](https://github.com/Nameister)
