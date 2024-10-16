@@ -50,3 +50,12 @@ Further documentation is available at:
 # Contributions
 Contributions are welcome. Please submit a pull request or open an issue to discuss proposed changes or enhancements.
 -  [Nameister](https://github.com/Nameister)
+-  [Sirapitch Boonyasampan](https://github.com/titlesirapitch)
+
+## Instructor
+
+- **Dr. Somchart Fugkaew** - Adivsor.
+
+## License
+
+This project is licensed under the Sirindhorn International Institute of Technology (SIIT), Thammasat University. All rights reserved.
