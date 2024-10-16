@@ -48,8 +48,8 @@ Further documentation is available at:
 - [Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
   
 # Contributions
-Contributions are welcome. Please submit a pull request or open an issue to discuss proposed changes or enhancements.
--  [Nameister](https://github.com/Nameister)
+
+-  [Thanapat Thaipakdee](https://github.com/Nameister)
 -  [Sirapitch Boonyasampan](https://github.com/titlesirapitch)
 
 ## Instructor
